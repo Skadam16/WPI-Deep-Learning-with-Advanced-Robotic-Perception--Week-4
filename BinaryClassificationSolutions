@@ -1,1 +1,22 @@
+Binary Classification
+(Sonar dataset)
 
+1.Baseline 
+
+The result of the baseline model was as follows: 75.87% (7.98%)
+Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/baseline_binaryclassification_solution.png 
+
+2.Baseline model with standardized dataset
+
+The result of the baseline model with standardized dataset was as follows: 82.66% (5.01%)
+Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/standardized_binaryclassification_solution.png
+
+3.Standardized Larger
+
+The result of the model standardized larger was as follows: 83.09% (5.66%)
+Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/larger_binaryclassification_solution.png
+
+3.Standardized Smaller
+
+The result of the model standardized smaller was as follows: 79.82% (5.49%)
+Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/smaller_binaryclassification_solution.png
