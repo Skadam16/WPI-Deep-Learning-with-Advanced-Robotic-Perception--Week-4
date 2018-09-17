@@ -1,1 +1,13 @@
+Regresion Solutions
+(boston housing dataset)
 
+1.Baseline = 57.78 (42.33) MSE
+Screenshot- 
+
+2.Standardized = 58.50 (46.97) MSE
+
+
+3.Standardized Larger = 42.72 (46.57) MSE
+
+
+4.Standardized Wider = 47.48 (41.27) MSE
