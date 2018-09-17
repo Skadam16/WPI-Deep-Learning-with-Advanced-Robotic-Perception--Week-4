@@ -1,49 +1,40 @@
-Binary Classification
-(Sonar dataset)
+Binary Classification-(Sonar dataset)
 
 1.Baseline 
-
 The result of the baseline model was as follows: 75.87% (7.98%)
-Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/baseline_binaryclassification_solution.png 
 
 2.Baseline model with standardized dataset
-
 The result of the baseline model with standardized dataset was as follows: 82.66% (5.01%)
-Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/standardized_binaryclassification_solution.png
 
 3.Standardized Larger
-
 The result of the model standardized larger was as follows: 83.09% (5.66%)
-Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/larger_binaryclassification_solution.png
 
 3.Standardized Smaller
-
 The result of the model standardized smaller was as follows: 79.82% (5.49%)
-Screenshot- WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/smaller_binaryclassification_solution.png
-
 
 
 Multiclass Classification
 
 The accuracy for multiclass classification of the iris model is 44% (17.44%)
-Screenshot -  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/iris_accuracy_multiclassclassification_solution.png 
 
 
-
-Regresion Solutions
-(boston housing dataset)
+Regresion Solutions-(boston housing dataset)
 
 1.Baseline = 57.78 (42.33) MSE
-Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonbaseline_regression_solution.png 
 
 2.Standardized = 58.50 (46.97) MSE
-Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardized_regression_solution.png 
 
 3.Standardized Larger = 42.72 (46.57) MSE
-Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardizedlarger_regression_solution.png 
 
 4.Standardized Wider = 47.48 (41.27) MSE
-Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardizedwider_regression_solution.png 
 
 
+Serialization Solutions-(indian diabetes dataset)
 
+1. .json model
+Accuracy- 77.47%
+
+2. .yaml model
+Accuracy- 78.52%
+ 
+Screenshots of all results are linked ()
