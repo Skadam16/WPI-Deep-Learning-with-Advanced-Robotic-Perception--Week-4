@@ -30,3 +30,20 @@ Screenshot -  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/iris_ac
 
 
 
+Regresion Solutions
+(boston housing dataset)
+
+1.Baseline = 57.78 (42.33) MSE
+Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonbaseline_regression_solution.png 
+
+2.Standardized = 58.50 (46.97) MSE
+Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardized_regression_solution.png 
+
+3.Standardized Larger = 42.72 (46.57) MSE
+Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardizedlarger_regression_solution.png 
+
+4.Standardized Wider = 47.48 (41.27) MSE
+Screenshot-  WPI-Deep-Learning-with-Advanced-Robotic-Perception--Week-4/bostonstandardizedwider_regression_solution.png 
+
+
+
